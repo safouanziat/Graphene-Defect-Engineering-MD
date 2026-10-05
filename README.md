@@ -10,8 +10,9 @@ Ar impacts on a thermalized 2048-atom graphene sheet: vacancy yields, self-heali
 ![LAMMPS](https://img.shields.io/badge/MD-LAMMPS-d9534f)
 ![ASE](https://img.shields.io/badge/ASE-enabled-0366d6)
 ![AIREBO](https://img.shields.io/badge/potential-AIREBO%20%2B%20ZBL-6f42c1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Overview](#-overview) · [Method](#-method) · [Results](#-results) · [Convergence](#-convergence-tests) · [Quick start](#-quick-start) · [Structure](#-repository-structure) · [Limitations](#-limitations-and-roadmap)
+[Overview](#-overview) · [Method](#-method) · [Results](#-results) · [Convergence](#-convergence-tests) · [Quick start](#-quick-start) · [Structure](#-repository-structure) · [Limitations](#-limitations-and-roadmap) · [License](#-license)
 
 </div>
 
@@ -208,6 +209,12 @@ Running independent single-core jobs is faster than MPI on one 2048-atom sheet (
 - **N projectiles are not production-ready.** The ReaxFF set available here (`ffield.reax.CHN`, a nitramine parametrization) does not describe graphene well (vacancy formation energy 3.6 eV against 7.65 eV with AIREBO), so N bombardment needs a validated potential. The plan is to train a **MACE** potential on DFT data for C–N (including high-energy repulsive configurations).
 
 Planned: more impacts above 100 eV (intervals shrink as 1/√N), a larger sheet at N = 100, a second interatomic potential as a model check, DFT relaxation of the MD defects, oblique incidence, substrate model, N doping with a validated potential.
+
+---
+
+## 📄 License
+
+Released under the [MIT License](LICENSE). Copyright © 2026 Safouan Ziat.
 
 ---
 
