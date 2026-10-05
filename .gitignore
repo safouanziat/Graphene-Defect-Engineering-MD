@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.traj
+*.dump
+log.lammps
+CH.airebo
+bombardment_runs*/
+results_*/
+conv_*/
+overnight*
+nohup.out
+STOP_OVERNIGHT

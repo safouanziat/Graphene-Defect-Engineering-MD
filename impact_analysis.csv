@@ -1,0 +1,516 @@
+projectile,energy_eV,target,run,d_impact_C,fate,min_height,z_proj_final,closest_C,n_ejected,n_vacant,n_adatom,n_undercoord,max_transient_undercoord,n_overcoord,rings,n_displaced,max_disp,outcome,analysis_version
+Ar,50.0,random,1,0.4,reflected,0.21,18.49,19.14,0,0,0,0,2,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,50.0,random,2,0.55,reflected,-0.31,28.33,29.26,0,0,0,0,2,0,,0,0.95,"transient bond breaking, self-healed",5
+Ar,50.0,random,3,1.3,reflected,-0.25,31.36,32.11,0,0,0,0,0,0,,0,0.83,elastic / no permanent defect,5
+Ar,50.0,random,4,0.73,reflected,0.09,28.7,29.36,0,0,0,0,0,0,,0,0.71,elastic / no permanent defect,5
+Ar,50.0,random,5,0.49,reflected,-0.91,20.64,21.58,0,0,0,0,3,0,,0,0.95,"transient bond breaking, self-healed",5
+Ar,50.0,random,6,0.9,reflected,0.64,30.84,31.51,0,0,0,0,0,0,,0,0.7,elastic / no permanent defect,5
+Ar,50.0,random,7,0.13,reflected,-0.54,18.06,18.66,0,0,0,0,4,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,50.0,random,8,0.87,reflected,-0.11,34.84,35.55,0,0,0,0,0,0,,0,0.72,elastic / no permanent defect,5
+Ar,50.0,random,9,0.64,reflected,1.06,23.56,24.03,0,0,0,0,2,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,50.0,random,10,0.65,reflected,0.75,30.19,30.75,0,0,0,0,0,0,,0,0.64,elastic / no permanent defect,5
+Ar,50.0,random,11,0.23,reflected,0.07,29.9,30.67,0,0,0,0,2,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,50.0,random,12,0.52,reflected,0.86,27.69,28.16,0,0,0,0,2,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,50.0,random,13,0.54,reflected,0.42,30.19,31.02,0,0,0,0,3,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,50.0,random,14,0.86,reflected,-0.06,29.92,30.63,0,0,0,0,0,0,,0,0.77,elastic / no permanent defect,5
+Ar,60.0,random,1,0.07,reflected,-0.41,26.31,26.63,1,1,0,3,4,0,,1,127.75,single vacancy,5
+Ar,60.0,random,2,0.27,reflected,-0.51,22.61,22.93,0,0,0,0,4,0,,0,0.73,"transient bond breaking, self-healed",5
+Ar,60.0,random,3,0.52,reflected,-1.19,35.11,36.0,0,0,0,0,4,0,,0,0.93,"transient bond breaking, self-healed",5
+Ar,60.0,random,4,0.87,reflected,-0.97,27.21,27.7,0,0,0,0,3,0,,0,0.89,"transient bond breaking, self-healed",5
+Ar,60.0,random,5,0.79,reflected,-0.41,33.2,33.83,0,0,0,0,3,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,60.0,random,6,0.29,reflected,-0.77,30.99,31.83,1,1,0,3,4,0,,1,133.52,single vacancy,5
+Ar,60.0,random,7,0.84,reflected,-1.47,25.82,26.52,0,0,0,0,3,0,,0,0.87,"transient bond breaking, self-healed",5
+Ar,60.0,random,8,0.33,transmitted,-34.3,-34.26,33.96,0,0,0,0,3,0,,0,0.59,"transient bond breaking, self-healed",5
+Ar,60.0,random,9,0.71,reflected,-0.56,31.23,31.94,0,0,0,0,2,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,60.0,random,10,0.29,reflected,-0.14,23.5,23.77,0,0,0,0,3,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,60.0,random,11,0.68,reflected,-1.02,27.65,28.54,0,0,0,0,3,0,,0,0.91,"transient bond breaking, self-healed",5
+Ar,60.0,random,12,0.17,reflected,-0.45,31.02,31.58,0,0,0,0,6,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,60.0,random,13,0.64,transmitted,-43.62,-43.6,43.16,0,0,0,0,3,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,60.0,random,14,0.92,reflected,-0.62,35.58,36.26,0,0,0,0,2,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,60.0,random,15,0.23,reflected,-0.26,22.49,23.11,0,0,0,0,6,0,,0,0.77,"transient bond breaking, self-healed",5
+Ar,60.0,random,16,0.65,reflected,0.12,24.1,24.84,0,0,0,0,3,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,60.0,random,17,0.73,reflected,-0.24,25.34,25.81,0,0,0,0,3,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,60.0,random,18,0.2,reflected,-1.13,31.82,32.37,0,0,0,0,4,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,60.0,random,19,0.58,reflected,0.05,34.71,35.24,0,0,0,0,4,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,60.0,random,20,0.93,reflected,-0.8,39.72,40.07,0,0,0,0,2,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,60.0,random,21,0.58,reflected,-1.68,22.82,23.31,0,0,0,0,3,0,,0,0.55,"transient bond breaking, self-healed",5
+Ar,60.0,random,22,0.66,reflected,-1.81,37.26,38.08,0,0,0,0,2,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,60.0,random,23,0.91,reflected,0.52,43.81,44.26,0,0,0,0,2,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,60.0,random,24,0.53,reflected,0.05,32.2,32.8,0,0,0,0,4,0,,0,0.95,"transient bond breaking, self-healed",5
+Ar,62.0,random,1,0.64,reflected,-2.13,32.23,33.09,0,0,0,0,2,0,,0,0.91,"transient bond breaking, self-healed",5
+Ar,62.0,random,2,0.62,reflected,-1.66,38.39,39.27,0,0,0,0,3,0,,0,0.87,"transient bond breaking, self-healed",5
+Ar,62.0,random,3,0.48,reflected,0.5,20.7,20.98,0,0,0,0,3,0,,0,0.43,"transient bond breaking, self-healed",5
+Ar,62.0,random,4,0.48,reflected,-2.15,29.56,30.32,0,0,0,0,3,0,,0,0.76,"transient bond breaking, self-healed",5
+Ar,62.0,random,5,0.51,reflected,-2.58,27.93,28.75,0,0,0,0,3,0,,0,0.82,"transient bond breaking, self-healed",5
+Ar,62.0,random,6,0.84,reflected,-0.67,34.47,35.23,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,62.0,random,7,0.39,reflected,-2.39,29.52,30.29,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,62.0,random,8,0.41,reflected,0.41,23.79,24.11,0,0,0,0,4,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,62.0,random,9,0.93,reflected,0.77,42.2,42.64,0,0,0,0,0,0,,0,0.47,elastic / no permanent defect,5
+Ar,62.0,random,10,0.78,reflected,-1.81,38.93,39.52,0,0,0,0,3,0,,0,0.6,"transient bond breaking, self-healed",5
+Ar,62.0,random,11,0.99,reflected,-0.34,43.2,43.85,0,0,0,0,0,0,,0,0.75,elastic / no permanent defect,5
+Ar,62.0,random,12,0.76,reflected,-0.22,35.31,36.03,0,0,0,0,3,0,,0,0.86,"transient bond breaking, self-healed",5
+Ar,62.0,random,13,0.64,reflected,-0.12,33.79,34.44,0,0,0,0,4,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,62.0,random,14,0.36,transmitted,-28.74,-28.69,28.59,0,0,0,0,4,0,,0,0.49,"transient bond breaking, self-healed",5
+Ar,62.0,random,15,0.98,reflected,-0.52,40.75,41.5,0,0,0,0,2,0,,0,0.77,"transient bond breaking, self-healed",5
+Ar,62.0,random,16,0.98,reflected,-0.95,40.21,40.78,0,0,0,0,2,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,62.0,random,17,0.4,reflected,-0.92,25.18,25.62,0,0,0,0,4,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,62.0,random,18,0.33,reflected,-0.16,21.44,21.59,0,0,0,0,3,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,62.0,random,19,0.5,reflected,-2.33,31.1,31.82,0,0,0,0,3,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,62.0,random,20,0.63,reflected,-0.38,40.96,41.49,0,0,0,0,4,0,,0,0.52,"transient bond breaking, self-healed",5
+Ar,62.0,random,21,0.4,reflected,-0.62,22.01,22.45,0,0,0,0,5,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,62.0,random,22,0.68,reflected,-0.67,28.42,29.25,0,0,0,0,3,0,,0,0.87,"transient bond breaking, self-healed",5
+Ar,62.0,random,23,1.11,reflected,-1.95,42.06,42.84,0,0,0,0,2,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,62.0,random,24,0.53,reflected,0.2,26.51,27.02,0,0,0,0,3,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,62.0,random,25,0.58,reflected,0.02,28.27,28.69,0,0,0,0,4,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,62.0,random,26,0.31,reflected,-0.5,23.53,24.0,0,0,0,0,4,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,62.0,random,27,1.18,reflected,-1.35,48.48,49.26,0,0,0,0,0,0,,0,0.84,elastic / no permanent defect,5
+Ar,62.0,random,28,0.4,reflected,-1.44,30.32,31.39,1,1,0,3,4,0,,1,122.2,single vacancy,5
+Ar,62.0,random,29,0.58,reflected,-0.67,27.16,27.62,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,62.0,random,30,0.65,transmitted,-40.88,-40.69,40.34,0,0,0,0,3,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,62.0,random,31,0.87,reflected,-1.78,38.02,38.78,0,0,0,0,2,0,,0,0.82,"transient bond breaking, self-healed",5
+Ar,62.0,random,32,0.22,reflected,0.59,19.52,20.33,0,0,0,0,5,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,62.0,random,33,0.79,reflected,-1.58,38.6,39.21,0,0,0,0,2,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,62.0,random,34,1.09,reflected,-1.4,53.44,54.25,0,0,0,0,0,0,,0,0.84,elastic / no permanent defect,5
+Ar,62.0,random,35,1.09,reflected,-0.7,46.89,47.65,0,0,0,0,0,0,,0,0.83,elastic / no permanent defect,5
+Ar,62.0,random,36,0.48,reflected,-1.46,29.46,30.1,0,0,0,0,3,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,62.0,random,37,0.49,reflected,0.7,23.37,23.65,0,0,0,0,3,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,62.0,random,38,0.14,reflected,-1.83,27.08,27.81,0,0,0,0,4,0,,0,0.95,"transient bond breaking, self-healed",5
+Ar,62.0,random,39,0.73,reflected,0.67,25.2,25.82,0,0,0,0,4,0,,0,0.76,"transient bond breaking, self-healed",5
+Ar,62.0,random,40,1.29,reflected,-1.75,49.23,49.98,0,0,0,0,0,0,,0,0.77,elastic / no permanent defect,5
+Ar,62.0,random,41,0.3,reflected,-1.56,32.74,33.24,1,1,0,3,4,0,,1,110.22,single vacancy,5
+Ar,62.0,random,42,0.69,reflected,-1.51,43.28,44.04,0,0,0,0,3,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,62.0,random,43,0.71,reflected,-1.35,40.58,41.46,0,0,0,0,4,0,,0,0.94,"transient bond breaking, self-healed",5
+Ar,62.0,random,44,0.8,reflected,-1.05,33.95,34.82,0,0,0,0,2,0,,0,0.92,"transient bond breaking, self-healed",5
+Ar,62.0,random,45,0.91,transmitted,-55.67,-55.75,55.09,0,0,0,0,2,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,62.0,random,46,0.64,reflected,-1.05,40.24,41.13,0,0,0,0,4,0,,0,0.93,"transient bond breaking, self-healed",5
+Ar,62.0,random,47,0.56,reflected,-0.65,33.27,34.07,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,62.0,random,48,0.61,reflected,-0.9,32.04,32.73,0,0,0,0,4,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,64.0,random,1,0.37,transmitted,-40.64,-40.63,40.35,1,1,0,3,4,0,,1,110.5,single vacancy,5
+Ar,64.0,random,2,0.82,reflected,-0.83,27.08,27.31,0,0,0,0,2,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,64.0,random,3,0.49,reflected,-0.32,32.78,33.36,0,0,0,0,3,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,64.0,random,4,0.86,reflected,-0.17,36.2,36.8,0,0,0,0,2,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,64.0,random,5,0.64,reflected,-1.35,39.68,40.22,0,0,0,0,3,0,,0,0.87,"transient bond breaking, self-healed",5
+Ar,64.0,random,6,0.54,reflected,-1.45,33.13,33.86,0,0,0,0,4,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,64.0,random,7,0.85,reflected,-0.77,29.74,30.39,0,0,0,0,2,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,64.0,random,8,0.34,reflected,-1.54,29.37,29.79,1,1,0,3,4,0,,1,120.85,single vacancy,5
+Ar,64.0,random,9,0.98,reflected,0.11,45.99,46.53,0,0,0,0,0,0,,0,0.56,elastic / no permanent defect,5
+Ar,64.0,random,10,0.42,reflected,-1.5,30.58,31.13,0,0,0,0,4,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,64.0,random,11,0.48,transmitted,-36.13,-36.18,36.09,0,0,0,0,3,0,,0,0.56,"transient bond breaking, self-healed",5
+Ar,64.0,random,12,0.71,reflected,-1.73,30.55,31.27,0,0,0,0,3,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,64.0,random,13,0.6,reflected,-0.54,28.84,29.63,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,64.0,random,14,0.25,reflected,-0.19,25.19,25.51,1,1,1,2,5,2,3-5,2,4.13,Frenkel pair (vacancy + bonded adatom),5
+Ar,64.0,random,15,0.61,reflected,-0.53,23.37,23.69,0,0,0,0,5,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,64.0,random,16,0.65,transmitted,-26.91,-26.86,26.76,0,0,0,0,3,0,,0,0.59,"transient bond breaking, self-healed",5
+Ar,64.0,random,17,0.13,reflected,-2.01,28.39,28.79,1,1,0,3,4,0,,1,139.07,single vacancy,5
+Ar,64.0,random,18,0.74,reflected,-0.38,33.99,34.61,0,0,0,0,4,0,,0,0.77,"transient bond breaking, self-healed",5
+Ar,64.0,random,19,0.62,reflected,-0.17,27.23,28.03,0,0,0,0,4,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,64.0,random,20,0.28,reflected,-0.85,24.69,25.7,2,2,2,3,5,0,,1,4.18,di-vacancy (2 atoms still bonded as adatom),5
+Ar,64.0,random,21,0.04,reflected,-1.46,29.94,30.5,1,1,0,3,4,0,,1,141.4,single vacancy,5
+Ar,64.0,random,22,0.59,reflected,-0.52,27.27,27.96,0,0,0,0,3,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,64.0,random,23,0.71,reflected,0.37,29.19,29.66,0,0,0,0,4,0,,0,0.9,"transient bond breaking, self-healed",5
+Ar,64.0,random,24,0.66,reflected,-1.44,27.16,26.73,0,0,0,2,3,0,,0,1.29,bond defect / buckled region (no atom missing from the sheet),5
+Ar,64.0,random,25,0.78,reflected,-0.79,29.14,29.92,0,0,0,0,3,0,,0,0.86,"transient bond breaking, self-healed",5
+Ar,64.0,random,26,1.18,reflected,-0.92,55.05,55.62,0,0,0,0,0,0,,0,0.76,elastic / no permanent defect,5
+Ar,64.0,random,27,0.81,reflected,-1.01,40.49,40.93,0,0,0,0,4,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,64.0,random,28,0.73,reflected,-2.18,42.96,43.6,0,0,0,0,4,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,64.0,random,29,0.72,reflected,-0.95,25.81,26.5,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,64.0,random,30,1.11,reflected,-0.57,38.81,39.19,0,0,0,0,2,0,,0,0.88,"transient bond breaking, self-healed",5
+Ar,64.0,random,31,0.71,reflected,-1.15,36.92,37.65,0,0,0,0,3,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,64.0,random,32,0.46,reflected,-1.18,27.28,28.07,0,0,0,0,5,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,64.0,random,33,1.28,transmitted,-83.04,-82.95,82.22,0,0,0,0,0,0,,0,0.73,elastic / no permanent defect,5
+Ar,64.0,random,34,0.49,reflected,-0.27,26.88,27.62,1,1,0,3,4,0,,1,114.26,single vacancy,5
+Ar,64.0,random,35,0.33,reflected,-0.57,31.23,31.52,1,1,0,3,4,0,,1,92.26,single vacancy,5
+Ar,64.0,random,36,0.49,reflected,-0.51,20.73,21.29,0,0,0,0,4,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,64.0,random,37,1.07,reflected,-0.93,48.91,49.65,0,0,0,0,2,0,,0,0.77,"transient bond breaking, self-healed",5
+Ar,64.0,random,38,0.79,transmitted,-58.06,-58.08,57.6,0,0,0,0,4,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,64.0,random,39,0.51,reflected,-0.63,23.31,23.88,0,0,0,0,5,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,64.0,random,40,0.41,reflected,-2.53,30.35,31.26,1,1,0,3,4,0,,1,129.24,single vacancy,5
+Ar,64.0,random,41,0.59,reflected,0.04,22.76,22.98,0,0,0,0,4,0,,0,0.86,"transient bond breaking, self-healed",5
+Ar,64.0,random,42,0.96,reflected,-0.65,41.81,42.61,0,0,0,0,0,0,,0,0.9,elastic / no permanent defect,5
+Ar,64.0,random,43,0.74,reflected,-1.78,39.22,40.0,0,0,0,0,3,0,,0,0.77,"transient bond breaking, self-healed",5
+Ar,64.0,random,44,0.73,reflected,-0.55,25.18,25.98,0,0,0,0,4,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,64.0,random,45,0.39,reflected,-2.41,31.01,31.93,0,0,0,0,4,0,,0,0.96,"transient bond breaking, self-healed",5
+Ar,64.0,random,46,0.28,reflected,-0.33,24.82,25.2,0,0,0,0,5,0,,0,0.73,"transient bond breaking, self-healed",5
+Ar,64.0,random,47,0.41,reflected,-0.5,23.41,23.47,0,0,0,2,3,0,,0,1.38,bond defect / buckled region (no atom missing from the sheet),5
+Ar,64.0,random,48,0.39,transmitted,-49.8,-49.82,49.88,0,0,0,0,5,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,66.0,random,1,1.0,reflected,-0.39,49.75,50.48,0,0,0,0,2,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,66.0,random,2,0.84,reflected,-1.26,32.59,33.07,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,66.0,random,3,1.03,transmitted,-59.95,-59.9,59.65,0,0,0,0,2,0,,0,0.44,"transient bond breaking, self-healed",5
+Ar,66.0,random,4,0.46,reflected,-2.17,23.41,24.09,0,0,0,4,4,0,7,1,3.5,"extended defect (open hole, 4 under-coordinated atoms, rings 7)",5
+Ar,66.0,random,5,0.67,reflected,-1.52,27.76,28.47,0,0,0,0,3,0,,0,0.76,"transient bond breaking, self-healed",5
+Ar,66.0,random,6,1.07,transmitted,-54.61,-54.53,54.64,0,0,0,0,4,0,,0,0.5,"transient bond breaking, self-healed",5
+Ar,66.0,random,7,0.7,reflected,-0.67,36.09,36.93,0,0,0,0,4,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,66.0,random,8,1.15,reflected,-1.57,54.71,55.46,0,0,0,0,0,0,,0,0.83,elastic / no permanent defect,5
+Ar,66.0,random,9,0.82,transmitted,-47.73,-47.51,47.89,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,66.0,random,10,0.3,reflected,-1.79,30.01,30.46,1,1,0,3,4,0,,1,122.9,single vacancy,5
+Ar,66.0,random,11,1.24,transmitted,-99.62,-99.57,99.51,0,0,0,0,0,0,,0,0.6,elastic / no permanent defect,5
+Ar,66.0,random,12,0.43,reflected,-0.95,23.86,24.35,0,0,0,0,4,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,66.0,random,13,0.65,reflected,-0.72,28.38,29.08,0,0,0,0,3,0,,0,0.73,"transient bond breaking, self-healed",5
+Ar,66.0,random,14,1.0,transmitted,-75.74,-75.69,75.46,0,0,0,0,2,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,66.0,random,15,1.21,transmitted,-92.04,-91.9,91.96,0,0,0,0,0,0,,0,0.57,elastic / no permanent defect,5
+Ar,66.0,random,16,0.53,transmitted,-48.98,-48.92,48.49,0,0,0,0,3,0,,0,0.79,"transient bond breaking, self-healed",5
+Ar,66.0,random,17,0.85,transmitted,-48.65,-48.65,48.96,0,0,0,2,3,0,,0,1.41,bond defect / buckled region (no atom missing from the sheet),5
+Ar,66.0,random,18,0.78,transmitted,-45.57,-45.61,45.2,0,0,0,0,3,0,,0,0.53,"transient bond breaking, self-healed",5
+Ar,66.0,random,19,0.24,reflected,-0.3,30.12,30.47,1,1,0,3,4,0,,1,114.44,single vacancy,5
+Ar,66.0,random,20,0.45,reflected,-1.06,24.44,25.0,0,0,0,0,5,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,66.0,random,21,0.13,reflected,-1.4,31.05,31.55,1,1,0,3,4,0,,1,150.19,single vacancy,5
+Ar,66.0,random,22,0.16,reflected,-0.82,30.28,31.08,1,1,0,3,4,0,,1,143.01,single vacancy,5
+Ar,66.0,random,23,1.22,reflected,-2.03,55.53,56.33,0,0,0,0,2,0,,0,0.93,"transient bond breaking, self-healed",5
+Ar,66.0,random,24,0.1,reflected,-1.87,28.51,28.84,1,1,0,3,4,0,,1,153.13,single vacancy,5
+Ar,66.0,random,25,0.75,reflected,-1.68,38.2,38.99,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,66.0,random,26,0.64,reflected,-1.25,39.72,40.32,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,66.0,random,27,0.71,reflected,-1.43,39.39,40.28,0,0,0,0,4,0,,0,0.88,"transient bond breaking, self-healed",5
+Ar,66.0,random,28,0.66,reflected,-1.79,35.86,36.35,0,0,0,0,2,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,66.0,random,29,0.84,transmitted,-52.9,-52.75,52.16,0,0,0,0,2,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,66.0,random,30,0.72,reflected,-2.03,38.91,39.78,0,0,0,0,4,0,,0,0.88,"transient bond breaking, self-healed",5
+Ar,66.0,random,31,1.19,transmitted,-94.42,-94.48,94.23,0,0,0,0,0,0,,0,0.67,elastic / no permanent defect,5
+Ar,66.0,random,32,0.77,transmitted,-62.17,-62.22,62.07,0,0,0,0,3,0,,0,0.47,"transient bond breaking, self-healed",5
+Ar,66.0,random,33,0.89,transmitted,-43.99,-44.1,43.58,0,0,0,0,4,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,66.0,random,34,0.29,transmitted,-33.79,-33.65,33.06,1,1,0,3,4,0,,1,125.09,single vacancy,5
+Ar,66.0,random,35,1.05,reflected,-0.86,46.22,46.87,0,0,0,0,0,0,,0,0.68,elastic / no permanent defect,5
+Ar,66.0,random,36,0.8,transmitted,-54.8,-54.73,54.37,0,0,0,0,2,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,66.0,random,37,0.87,reflected,0.35,48.4,48.97,0,0,0,0,2,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,66.0,random,38,0.79,reflected,-1.69,36.88,37.59,0,0,0,0,4,0,,0,0.91,"transient bond breaking, self-healed",5
+Ar,66.0,random,39,0.72,transmitted,-45.9,-45.85,45.17,0,0,0,2,3,0,,0,1.43,bond defect / buckled region (no atom missing from the sheet),5
+Ar,66.0,random,40,0.73,transmitted,-44.44,-44.46,43.89,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,66.0,random,41,0.89,reflected,-1.31,26.2,26.93,0,0,0,0,2,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,66.0,random,42,0.65,transmitted,-46.49,-46.51,46.22,0,0,0,0,3,0,,0,0.76,"transient bond breaking, self-healed",5
+Ar,66.0,random,43,0.81,transmitted,-47.79,-47.75,47.54,0,0,0,0,3,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,66.0,random,44,0.54,reflected,-2.4,29.08,29.72,0,0,0,0,3,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,66.0,random,45,0.26,reflected,-1.77,30.4,30.65,1,1,0,3,4,0,,1,88.79,single vacancy,5
+Ar,66.0,random,46,1.02,transmitted,-69.12,-69.12,69.04,0,0,0,0,2,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,66.0,random,47,0.05,reflected,-0.44,30.69,30.91,1,1,0,3,4,0,,1,154.18,single vacancy,5
+Ar,66.0,random,48,0.69,transmitted,-48.39,-48.39,47.78,0,0,0,0,2,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,68.0,random,1,0.49,transmitted,-48.19,-48.24,48.04,0,0,0,0,5,0,,0,0.53,"transient bond breaking, self-healed",5
+Ar,68.0,random,2,1.05,transmitted,-92.19,-92.23,91.8,0,0,0,0,0,0,,0,0.66,elastic / no permanent defect,5
+Ar,68.0,random,3,0.79,transmitted,-58.26,-58.34,58.28,0,0,0,0,4,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,68.0,random,4,0.71,reflected,-1.87,35.93,36.58,0,0,0,0,4,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,68.0,random,5,1.11,transmitted,-74.0,-74.02,73.67,0,0,0,0,2,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,68.0,random,6,0.94,transmitted,-63.42,-63.35,63.43,0,0,0,0,2,0,,0,0.6,"transient bond breaking, self-healed",5
+Ar,68.0,random,7,0.9,reflected,-0.58,49.14,49.89,0,0,0,0,2,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,68.0,random,8,0.63,reflected,-0.9,38.92,39.4,0,0,0,0,3,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,68.0,random,9,0.86,reflected,-2.53,31.71,32.43,0,0,0,0,4,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,68.0,random,10,0.61,transmitted,-47.08,-47.1,46.95,0,0,0,0,5,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,68.0,random,11,0.71,reflected,-0.9,37.0,37.51,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,68.0,random,12,0.47,transmitted,-46.83,-46.77,46.35,1,1,0,3,4,0,,1,107.14,single vacancy,5
+Ar,68.0,random,13,0.4,reflected,-1.09,29.01,29.36,1,1,0,3,4,0,,1,121.79,single vacancy,5
+Ar,68.0,random,14,0.75,reflected,-0.59,36.98,37.61,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,68.0,random,15,0.91,reflected,-0.86,38.24,38.68,0,0,0,0,2,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,68.0,random,16,0.53,reflected,-0.33,38.91,39.7,0,0,0,0,4,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,68.0,random,17,0.72,reflected,-0.4,37.09,37.7,0,0,0,0,4,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,68.0,random,18,0.83,reflected,-0.73,38.46,39.2,0,0,0,0,3,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,68.0,random,19,0.68,reflected,-1.69,36.15,36.98,0,0,0,0,4,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,68.0,random,20,0.56,transmitted,-44.84,-44.71,44.68,0,0,0,0,5,0,,0,0.55,"transient bond breaking, self-healed",5
+Ar,68.0,random,21,0.77,transmitted,-58.61,-58.75,58.27,0,0,0,0,4,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,68.0,random,22,0.29,reflected,-1.57,30.02,30.41,1,1,0,3,4,0,,1,138.91,single vacancy,5
+Ar,68.0,random,23,0.66,reflected,-0.29,32.23,32.93,0,0,0,0,4,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,68.0,random,24,0.61,reflected,-2.67,34.62,35.41,0,0,0,0,4,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,68.0,random,25,1.08,reflected,-1.19,54.84,55.71,0,0,0,0,0,0,,0,0.89,elastic / no permanent defect,5
+Ar,68.0,random,26,0.38,transmitted,-42.05,-41.9,41.6,1,1,0,3,3,0,,1,126.18,single vacancy,5
+Ar,68.0,random,27,0.6,reflected,-2.38,37.5,38.42,0,0,0,0,4,0,,0,0.95,"transient bond breaking, self-healed",5
+Ar,68.0,random,28,0.35,transmitted,-37.77,-37.64,37.36,1,1,0,3,4,0,,1,128.13,single vacancy,5
+Ar,68.0,random,29,0.29,transmitted,-45.46,-45.39,44.92,1,1,0,3,4,0,,1,122.24,single vacancy,5
+Ar,68.0,random,30,0.33,transmitted,-41.52,-41.53,40.39,1,1,0,3,3,0,,1,132.98,single vacancy,5
+Ar,68.0,random,31,0.15,transmitted,-43.63,-43.69,43.53,1,1,0,3,4,0,,1,152.23,single vacancy,5
+Ar,68.0,random,32,0.29,transmitted,-43.3,-43.28,42.01,1,1,0,3,3,0,,1,130.87,single vacancy,5
+Ar,68.0,random,33,0.47,transmitted,-49.17,-49.14,48.74,0,0,0,0,4,0,,0,0.82,"transient bond breaking, self-healed",5
+Ar,68.0,random,34,0.74,reflected,0.16,28.56,29.31,0,0,0,0,3,0,,0,0.88,"transient bond breaking, self-healed",5
+Ar,68.0,random,35,0.67,transmitted,-47.75,-47.78,47.05,0,0,0,0,3,0,,0,0.91,"transient bond breaking, self-healed",5
+Ar,68.0,random,36,0.6,transmitted,-46.63,-46.71,46.18,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,68.0,random,37,0.33,transmitted,-42.82,-42.85,42.75,1,1,0,3,4,0,,1,132.84,single vacancy,5
+Ar,68.0,random,38,0.97,reflected,-1.53,36.7,37.32,0,0,0,0,2,0,,0,0.82,"transient bond breaking, self-healed",5
+Ar,68.0,random,39,0.55,transmitted,-47.57,-47.51,46.78,0,0,0,0,3,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,68.0,random,40,0.42,transmitted,-47.98,-48.01,47.64,0,0,0,0,4,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,68.0,random,41,0.59,transmitted,-43.46,-43.56,43.29,0,1,1,2,4,0,,0,2.76,Frenkel pair (vacancy + bonded adatom),5
+Ar,68.0,random,42,0.54,reflected,-1.66,38.94,39.75,0,0,0,0,4,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,68.0,random,43,0.71,transmitted,-45.4,-45.56,44.82,0,0,0,0,3,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,68.0,random,44,0.54,transmitted,-48.11,-48.14,48.02,0,0,0,0,3,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,68.0,random,45,0.71,transmitted,-42.8,-42.82,42.46,0,0,0,0,3,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,68.0,random,46,1.34,transmitted,-104.05,-104.02,103.88,0,0,0,0,0,0,,0,0.81,elastic / no permanent defect,5
+Ar,68.0,random,47,0.65,reflected,-1.69,27.72,28.25,0,0,0,0,5,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,68.0,random,48,0.74,transmitted,-46.73,-46.7,46.66,0,0,0,0,4,0,,0,0.59,"transient bond breaking, self-healed",5
+Ar,70.0,random,1,0.38,transmitted,-42.58,-42.56,41.61,1,1,0,3,4,0,,1,126.07,single vacancy,5
+Ar,70.0,random,2,0.71,transmitted,-40.67,-40.6,40.33,0,0,0,0,3,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,70.0,random,3,0.49,transmitted,-43.13,-43.18,43.28,1,1,0,3,4,0,,1,121.27,single vacancy,5
+Ar,70.0,random,4,0.67,reflected,-1.83,30.49,31.21,0,0,0,0,4,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,70.0,random,5,0.48,transmitted,-45.96,-45.99,46.22,0,0,0,0,4,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,70.0,random,6,0.6,transmitted,-43.28,-43.26,43.18,0,0,0,0,5,0,,0,0.54,"transient bond breaking, self-healed",5
+Ar,70.0,random,7,1.21,transmitted,-104.06,-104.11,103.78,0,0,0,0,0,0,,0,0.63,elastic / no permanent defect,5
+Ar,70.0,random,8,0.23,reflected,-1.15,30.86,31.86,1,1,0,3,4,0,,1,158.23,single vacancy,5
+Ar,70.0,random,9,0.86,transmitted,-59.34,-59.26,59.1,0,0,0,0,3,0,,0,1.03,"transient bond breaking, self-healed",5
+Ar,70.0,random,10,0.54,reflected,-1.16,29.87,30.47,1,1,0,3,4,0,,1,104.83,single vacancy,5
+Ar,70.0,random,11,0.66,transmitted,-47.05,-47.04,46.39,0,0,0,0,3,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,70.0,random,12,0.65,transmitted,-47.43,-47.45,47.14,0,0,0,0,3,0,,0,0.52,"transient bond breaking, self-healed",5
+Ar,70.0,random,13,0.58,transmitted,-47.1,-47.05,47.11,0,0,0,0,5,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,70.0,random,14,0.67,transmitted,-51.88,-51.9,51.49,0,0,0,0,3,0,,0,0.59,"transient bond breaking, self-healed",5
+Ar,70.0,random,15,0.62,reflected,-0.62,33.42,33.21,0,0,0,2,4,0,5-7,1,1.68,"bond defect / buckled region (no atom missing from the sheet, rings 5-7)",5
+Ar,70.0,random,16,0.33,transmitted,-43.11,-43.11,42.28,1,1,0,3,4,0,,1,143.59,single vacancy,5
+Ar,70.0,random,17,0.32,transmitted,-42.5,-42.49,42.28,1,1,0,3,4,0,,1,132.46,single vacancy,5
+Ar,70.0,random,18,0.69,transmitted,-48.82,-48.78,48.88,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,70.0,random,19,0.68,transmitted,-44.03,-44.18,43.72,0,0,0,0,3,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,70.0,random,20,0.69,transmitted,-43.92,-43.88,43.14,1,2,2,3,4,0,,1,3.2,di-vacancy (2 atoms still bonded as adatom),5
+Ar,70.0,random,21,0.58,transmitted,-53.29,-53.2,52.87,0,0,0,0,3,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,70.0,random,22,0.64,transmitted,-40.8,-40.82,40.82,0,0,0,0,5,0,,0,0.48,"transient bond breaking, self-healed",5
+Ar,70.0,random,23,0.49,transmitted,-47.92,-47.92,46.35,1,1,0,3,4,0,,1,120.91,single vacancy,5
+Ar,70.0,random,24,0.63,transmitted,-48.57,-48.64,48.33,0,0,0,0,3,0,,0,0.39,"transient bond breaking, self-healed",5
+Ar,70.0,random,25,1.09,transmitted,-95.93,-95.95,95.73,0,0,0,0,0,0,,0,0.65,elastic / no permanent defect,5
+Ar,70.0,random,26,0.27,transmitted,-46.41,-46.43,46.31,1,1,0,3,4,0,,1,142.73,single vacancy,5
+Ar,70.0,random,27,0.76,transmitted,-51.68,-51.63,51.11,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,70.0,random,28,0.12,transmitted,-44.84,-44.83,45.11,1,1,0,3,4,0,,1,148.7,single vacancy,5
+Ar,70.0,random,29,0.89,transmitted,-58.39,-58.32,58.78,0,0,0,1,3,1,3-5,0,1.48,"topological defect (3-5 rings, no atom missing, 1 under-coordinated)",5
+Ar,70.0,random,30,0.8,transmitted,-45.78,-45.83,45.27,0,0,0,0,3,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,70.0,random,31,0.62,reflected,-2.77,32.77,33.69,0,0,0,0,4,0,,0,0.93,"transient bond breaking, self-healed",5
+Ar,70.0,random,32,0.5,transmitted,-47.05,-47.15,46.89,1,1,0,3,4,0,,1,111.63,single vacancy,5
+Ar,70.0,random,33,0.16,transmitted,-36.87,-36.74,35.56,1,1,0,3,4,0,,1,154.61,single vacancy,5
+Ar,70.0,random,34,0.49,transmitted,-49.14,-49.2,48.68,0,0,0,0,3,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,70.0,random,35,0.33,transmitted,-48.42,-48.49,47.81,1,1,0,3,4,0,,1,144.66,single vacancy,5
+Ar,70.0,random,36,0.82,transmitted,-61.63,-61.54,61.31,0,0,0,0,3,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,70.0,random,37,0.58,transmitted,-47.5,-47.48,47.94,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,70.0,random,38,0.7,transmitted,-52.12,-52.14,52.09,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,70.0,random,39,0.99,transmitted,-97.57,-97.62,97.04,0,0,0,0,2,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,70.0,random,40,0.99,transmitted,-91.1,-91.06,90.83,0,0,0,0,2,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,70.0,random,41,1.13,transmitted,-85.54,-85.54,85.7,0,0,0,0,0,0,,0,0.66,elastic / no permanent defect,5
+Ar,70.0,random,42,0.59,transmitted,-45.31,-45.26,45.19,0,0,0,2,3,0,,0,1.05,bond defect / buckled region (no atom missing from the sheet),5
+Ar,70.0,random,43,0.55,transmitted,-52.48,-52.54,52.2,1,1,0,3,4,0,,0,107.77,single vacancy,5
+Ar,70.0,random,44,0.78,transmitted,-59.44,-59.49,59.5,0,0,0,0,4,0,,0,0.45,"transient bond breaking, self-healed",5
+Ar,70.0,random,45,0.6,transmitted,-41.13,-41.06,41.07,0,0,0,0,4,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,70.0,random,46,0.47,transmitted,-48.58,-48.54,48.03,0,0,0,0,3,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,70.0,random,47,0.81,transmitted,-57.48,-57.51,57.62,0,0,0,0,3,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,70.0,random,48,0.38,transmitted,-45.72,-45.69,45.61,1,1,0,3,4,0,,1,118.56,single vacancy,5
+Ar,70.0,random,49,0.47,transmitted,-47.22,-47.33,47.25,0,0,0,0,4,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,70.0,random,50,0.64,reflected,-0.64,28.62,29.46,0,0,0,0,5,0,,0,0.94,"transient bond breaking, self-healed",5
+Ar,70.0,random,51,0.17,transmitted,-43.97,-43.97,43.37,1,1,0,3,4,0,,1,148.69,single vacancy,5
+Ar,70.0,random,52,0.38,transmitted,-39.28,-39.37,38.44,1,1,0,3,4,0,,1,135.78,single vacancy,5
+Ar,70.0,random,53,0.62,transmitted,-47.08,-46.96,46.62,0,0,0,0,4,0,,0,0.47,"transient bond breaking, self-healed",5
+Ar,70.0,random,54,0.21,transmitted,-39.14,-39.2,38.61,1,1,0,3,4,0,,1,149.4,single vacancy,5
+Ar,70.0,random,55,0.93,transmitted,-60.36,-60.36,59.91,0,0,0,0,3,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,70.0,random,56,0.23,transmitted,-44.58,-44.61,43.9,1,1,0,3,4,0,,1,136.46,single vacancy,5
+Ar,70.0,random,57,0.23,transmitted,-42.76,-42.57,42.38,1,1,0,3,4,0,,1,137.63,single vacancy,5
+Ar,70.0,random,58,0.85,transmitted,-55.52,-55.58,55.78,0,0,0,0,3,0,,0,0.53,"transient bond breaking, self-healed",5
+Ar,70.0,random,59,0.76,transmitted,-51.03,-50.96,50.86,0,0,0,0,3,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,70.0,random,60,0.95,transmitted,-59.93,-59.9,59.91,0,0,0,0,3,0,,0,0.33,"transient bond breaking, self-healed",5
+Ar,70.0,random,61,0.39,transmitted,-47.61,-47.52,46.42,1,1,0,3,4,0,,1,114.13,single vacancy,5
+Ar,70.0,random,62,0.56,transmitted,-45.55,-45.59,45.3,0,0,0,0,5,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,70.0,random,63,0.67,transmitted,-51.06,-51.12,50.63,0,0,0,0,3,0,,0,0.6,"transient bond breaking, self-healed",5
+Ar,70.0,random,64,0.56,reflected,-2.28,31.08,31.38,0,1,1,2,5,0,,0,2.54,Frenkel pair (vacancy + bonded adatom),5
+Ar,70.0,random,65,0.66,transmitted,-51.79,-51.79,51.41,0,0,0,0,3,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,70.0,random,66,0.52,transmitted,-47.89,-47.97,47.42,0,0,0,0,3,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,70.0,random,67,0.93,transmitted,-59.05,-59.01,58.68,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,70.0,random,68,0.34,transmitted,-44.82,-44.81,45.31,0,0,0,0,5,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,70.0,random,69,0.44,transmitted,-47.76,-47.78,47.4,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,70.0,random,70,0.48,transmitted,-47.19,-47.2,47.18,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,70.0,random,71,0.42,transmitted,-31.0,-30.99,30.57,1,2,2,2,4,0,,2,3.57,di-vacancy (2 atoms still bonded as adatom),5
+Ar,70.0,random,72,0.77,reflected,-1.34,36.62,37.31,0,0,0,0,3,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,70.0,random,73,0.68,transmitted,-60.75,-60.72,60.44,0,0,0,0,4,0,,0,0.57,"transient bond breaking, self-healed",5
+Ar,70.0,random,74,0.48,transmitted,-47.02,-47.08,47.09,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,70.0,random,75,0.36,transmitted,-44.66,-44.7,44.85,1,1,0,3,4,0,,1,138.91,single vacancy,5
+Ar,70.0,random,76,0.13,transmitted,-45.87,-45.95,45.27,1,1,0,3,4,0,,1,150.53,single vacancy,5
+Ar,70.0,random,77,0.82,transmitted,-56.43,-56.45,56.22,0,0,0,0,2,0,,0,0.44,"transient bond breaking, self-healed",5
+Ar,70.0,random,78,0.81,transmitted,-52.7,-52.69,52.61,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,70.0,random,79,0.67,transmitted,-57.96,-57.97,57.78,0,0,0,0,3,0,,0,0.54,"transient bond breaking, self-healed",5
+Ar,70.0,random,80,0.87,transmitted,-62.55,-62.51,62.65,0,0,0,0,4,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,70.0,random,81,0.69,transmitted,-62.03,-62.09,61.87,0,0,0,0,2,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,70.0,random,82,1.17,transmitted,-100.13,-100.0,99.64,0,0,0,0,0,0,,0,0.94,elastic / no permanent defect,5
+Ar,70.0,random,83,1.27,transmitted,-100.71,-100.64,100.51,0,0,0,0,0,0,,0,0.51,elastic / no permanent defect,5
+Ar,70.0,random,84,0.32,transmitted,-26.38,-26.33,25.93,1,2,2,3,5,0,,1,3.94,di-vacancy (2 atoms still bonded as adatom),5
+Ar,70.0,random,85,0.7,transmitted,-53.92,-53.9,53.52,0,0,0,0,3,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,70.0,random,86,0.67,transmitted,-47.54,-47.61,47.52,0,0,0,0,4,0,,0,0.54,"transient bond breaking, self-healed",5
+Ar,70.0,random,87,0.49,transmitted,-44.97,-44.95,44.81,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,70.0,random,88,0.42,transmitted,-44.07,-44.16,43.56,1,1,0,3,3,0,,1,146.12,single vacancy,5
+Ar,70.0,random,89,0.9,transmitted,-56.94,-56.95,56.78,0,0,0,0,4,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,70.0,random,90,0.63,transmitted,-48.5,-48.5,47.95,0,0,0,0,4,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,70.0,random,91,0.64,transmitted,-49.79,-49.96,49.79,0,0,0,0,3,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,70.0,random,92,0.41,transmitted,-46.57,-46.56,46.61,0,0,0,0,5,0,,0,0.84,"transient bond breaking, self-healed",5
+Ar,70.0,random,93,0.81,reflected,-1.8,37.09,37.91,0,0,0,0,2,0,,0,0.81,"transient bond breaking, self-healed",5
+Ar,70.0,random,94,1.11,transmitted,-94.4,-94.43,94.56,0,0,0,0,2,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,70.0,random,95,0.45,transmitted,-49.58,-49.46,48.88,1,1,0,3,4,0,,1,148.36,single vacancy,5
+Ar,70.0,random,96,0.96,transmitted,-57.17,-57.15,57.1,0,0,0,0,4,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,70.0,random,97,1.16,transmitted,-95.45,-95.39,95.0,0,0,0,0,0,0,,0,0.57,elastic / no permanent defect,5
+Ar,70.0,random,98,1.24,transmitted,-99.58,-99.67,99.44,0,0,0,0,0,0,,0,0.4,elastic / no permanent defect,5
+Ar,70.0,random,99,0.89,reflected,-0.73,39.27,40.0,0,0,0,0,2,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,70.0,random,100,0.35,reflected,-0.23,30.22,30.91,1,1,0,3,4,0,,1,149.98,single vacancy,5
+Ar,80.0,random,1,0.75,transmitted,-60.54,-60.42,60.24,0,0,0,2,5,0,,0,1.24,bond defect / buckled region (no atom missing from the sheet),5
+Ar,80.0,random,2,0.95,transmitted,-87.18,-87.18,86.83,0,0,0,0,4,0,,0,0.78,"transient bond breaking, self-healed",5
+Ar,80.0,random,3,0.67,transmitted,-64.57,-64.5,64.65,0,0,0,0,3,0,,0,0.34,"transient bond breaking, self-healed",5
+Ar,80.0,random,4,0.72,transmitted,-76.96,-76.94,76.09,0,0,0,0,3,0,,0,0.92,"transient bond breaking, self-healed",5
+Ar,80.0,random,5,0.69,transmitted,-60.64,-60.55,48.77,1,1,0,3,3,0,,1,106.77,single vacancy,5
+Ar,80.0,random,6,1.09,transmitted,-111.48,-111.6,111.79,0,0,0,0,2,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,80.0,random,7,0.69,transmitted,-49.75,-49.57,48.68,1,1,0,3,6,0,,1,93.51,single vacancy,5
+Ar,80.0,random,8,1.01,transmitted,-104.37,-104.49,104.65,0,0,0,0,2,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,80.0,random,9,1.03,transmitted,-109.75,-109.86,109.96,0,0,0,0,0,0,,0,0.54,elastic / no permanent defect,5
+Ar,80.0,random,10,0.49,transmitted,-60.49,-60.43,60.04,1,1,0,3,4,0,,1,143.3,single vacancy,5
+Ar,80.0,random,11,0.86,transmitted,-69.42,-69.45,69.74,0,0,0,0,4,0,,0,0.58,"transient bond breaking, self-healed",5
+Ar,80.0,random,12,1.06,transmitted,-114.39,-114.42,114.31,0,0,0,0,0,0,,0,0.61,elastic / no permanent defect,5
+Ar,80.0,random,13,0.37,transmitted,-55.66,-55.59,55.12,1,1,0,3,4,0,,1,170.6,single vacancy,5
+Ar,80.0,random,14,0.6,transmitted,-64.11,-64.08,63.99,0,0,0,0,5,0,,0,0.67,"transient bond breaking, self-healed",5
+Ar,80.0,random,15,0.58,transmitted,-53.14,-53.14,52.71,1,1,0,3,4,0,,1,120.07,single vacancy,5
+Ar,80.0,random,16,1.01,transmitted,-84.82,-84.84,84.63,0,0,0,0,3,0,,0,0.47,"transient bond breaking, self-healed",5
+Ar,80.0,random,17,0.39,transmitted,-53.61,-53.53,53.57,1,1,0,3,4,0,,1,138.96,single vacancy,5
+Ar,80.0,random,18,0.3,transmitted,-52.97,-53.06,52.89,1,1,0,3,4,0,,1,163.8,single vacancy,5
+Ar,80.0,random,19,0.8,transmitted,-64.38,-64.32,63.85,0,0,0,0,3,0,,0,0.8,"transient bond breaking, self-healed",5
+Ar,80.0,random,20,0.51,transmitted,-59.48,-59.53,58.93,0,0,0,0,4,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,80.0,random,21,0.98,transmitted,-95.26,-95.2,94.73,0,0,0,0,2,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,80.0,random,22,0.49,transmitted,-57.99,-57.91,57.16,1,1,0,3,4,0,,1,128.03,single vacancy,5
+Ar,80.0,random,23,0.47,transmitted,-59.73,-59.85,59.88,1,1,0,3,4,0,,1,122.88,single vacancy,5
+Ar,80.0,random,24,0.72,transmitted,-64.95,-64.92,64.58,0,0,0,0,6,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,90.0,random,1,0.76,transmitted,-78.68,-78.61,78.18,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,90.0,random,2,0.72,transmitted,-65.85,-65.73,41.15,1,1,0,3,7,0,,1,106.72,single vacancy,5
+Ar,90.0,random,3,0.84,transmitted,-91.88,-91.8,91.78,0,0,0,0,3,0,,0,0.49,"transient bond breaking, self-healed",5
+Ar,90.0,random,4,0.7,transmitted,-82.11,-82.07,81.59,0,0,0,0,4,0,,0,0.57,"transient bond breaking, self-healed",5
+Ar,90.0,random,5,0.89,transmitted,-98.86,-98.89,98.45,0,0,0,0,3,0,,0,0.62,"transient bond breaking, self-healed",5
+Ar,90.0,random,6,0.57,transmitted,-64.52,-64.66,64.46,1,1,0,3,4,0,,1,143.94,single vacancy,5
+Ar,90.0,random,7,0.27,transmitted,-55.83,-55.8,55.64,1,1,0,3,4,0,,1,186.2,single vacancy,5
+Ar,90.0,random,8,0.47,transmitted,-62.35,-62.26,61.79,1,1,0,3,4,0,,1,158.98,single vacancy,5
+Ar,90.0,random,9,0.77,transmitted,-80.35,-80.33,79.82,0,0,0,0,3,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,90.0,random,10,0.5,transmitted,-68.47,-68.48,68.4,1,1,0,3,4,0,,1,153.23,single vacancy,5
+Ar,90.0,random,11,0.71,transmitted,-82.1,-82.07,79.4,0,1,1,0,5,0,5-9,1,3.09,Frenkel pair (vacancy + bonded adatom),5
+Ar,90.0,random,12,0.9,transmitted,-101.1,-101.15,101.0,0,0,0,0,3,0,,0,0.53,"transient bond breaking, self-healed",5
+Ar,90.0,random,13,0.21,transmitted,-55.7,-55.67,55.43,1,1,0,3,4,0,,1,193.8,single vacancy,5
+Ar,90.0,random,14,0.69,transmitted,-84.65,-84.57,84.21,0,0,0,0,4,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,90.0,random,15,0.3,transmitted,-58.76,-58.71,57.68,1,1,0,3,3,0,,1,194.03,single vacancy,5
+Ar,90.0,random,16,0.26,transmitted,-57.56,-57.52,56.38,1,1,0,3,4,0,,1,200.68,single vacancy,5
+Ar,90.0,random,17,0.53,transmitted,-61.32,-61.27,41.15,2,2,0,4,6,0,,2,150.68,di-vacancy,5
+Ar,90.0,random,18,0.92,transmitted,-92.99,-93.09,92.34,0,0,0,0,3,0,,0,0.88,"transient bond breaking, self-healed",5
+Ar,90.0,random,19,0.43,transmitted,-64.68,-64.73,64.86,1,1,0,3,4,0,,1,158.76,single vacancy,5
+Ar,90.0,random,20,0.99,transmitted,-105.46,-105.33,105.4,0,0,0,0,3,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,90.0,random,21,0.49,transmitted,-59.3,-59.33,58.6,1,1,0,3,5,0,,1,152.76,single vacancy,5
+Ar,90.0,random,22,1.0,transmitted,-109.19,-109.17,109.6,0,0,0,0,2,0,,0,0.66,"transient bond breaking, self-healed",5
+Ar,90.0,random,23,0.49,transmitted,-55.2,-55.13,45.2,2,2,0,4,6,0,,2,137.19,di-vacancy,5
+Ar,90.0,random,24,0.66,transmitted,-71.88,-71.94,61.25,1,1,0,3,4,0,,1,130.55,single vacancy,5
+Ar,100.0,random,1,0.54,transmitted,-71.77,-71.89,71.23,1,1,0,3,4,0,,1,157.15,single vacancy,5
+Ar,100.0,random,2,1.23,transmitted,-134.98,-134.84,134.79,0,0,0,0,0,0,,0,0.68,elastic / no permanent defect,5
+Ar,100.0,random,3,1.13,transmitted,-130.75,-130.75,130.58,0,0,0,0,0,0,,0,0.41,elastic / no permanent defect,5
+Ar,100.0,random,4,0.37,transmitted,-63.13,-63.09,62.5,1,1,0,3,4,0,,1,195.11,single vacancy,5
+Ar,100.0,random,5,0.66,transmitted,-91.86,-91.87,39.87,1,1,0,3,4,0,,1,98.69,single vacancy,5
+Ar,100.0,random,6,0.38,transmitted,-76.17,-76.13,75.78,1,1,0,3,4,0,,1,180.98,single vacancy,5
+Ar,100.0,random,7,0.22,transmitted,-64.76,-64.63,64.73,1,1,0,3,4,0,,1,209.87,single vacancy,5
+Ar,100.0,random,8,0.46,transmitted,-68.81,-68.83,21.94,2,2,0,4,6,0,,2,154.17,di-vacancy,5
+Ar,100.0,random,9,0.65,transmitted,-88.7,-88.69,86.73,0,0,0,4,6,0,5,1,2.16,"extended defect (open hole, 4 under-coordinated atoms, rings 5)",5
+Ar,100.0,random,10,0.6,transmitted,-68.61,-68.66,46.6,2,2,0,4,6,0,,2,145.75,di-vacancy,5
+Ar,100.0,random,11,0.46,transmitted,-69.4,-69.44,68.92,1,1,0,3,4,0,,1,176.72,single vacancy,5
+Ar,100.0,random,12,0.66,transmitted,-87.57,-87.54,45.68,1,1,0,3,5,0,,1,127.2,single vacancy,5
+Ar,100.0,random,13,0.64,transmitted,-83.33,-83.43,44.17,1,1,0,3,4,0,,1,127.02,single vacancy,5
+Ar,100.0,random,14,0.55,transmitted,-71.64,-71.57,70.65,1,1,0,3,5,0,,1,163.88,single vacancy,5
+Ar,100.0,random,15,0.57,transmitted,-82.71,-82.72,73.26,1,1,0,3,4,0,,1,149.39,single vacancy,5
+Ar,100.0,random,16,0.68,transmitted,-78.31,-78.24,48.29,1,1,0,3,5,0,,1,125.47,single vacancy,5
+Ar,100.0,random,17,0.97,transmitted,-102.82,-102.76,102.69,0,0,0,2,3,0,,0,1.29,bond defect / buckled region (no atom missing from the sheet),5
+Ar,100.0,random,18,0.48,transmitted,-69.58,-69.58,68.83,1,2,1,3,5,0,,1,157.2,di-vacancy (1 atom still bonded as adatom),5
+Ar,100.0,random,19,0.63,transmitted,-72.62,-72.64,71.76,1,1,0,3,5,0,,1,161.32,single vacancy,5
+Ar,100.0,random,20,0.89,transmitted,-97.12,-97.03,96.71,0,0,0,0,4,0,,0,0.57,"transient bond breaking, self-healed",5
+Ar,100.0,random,21,0.8,transmitted,-96.4,-96.31,95.95,0,0,0,0,4,0,,0,0.74,"transient bond breaking, self-healed",5
+Ar,100.0,random,22,0.67,transmitted,-87.1,-87.1,49.3,1,1,0,3,4,0,,1,126.44,single vacancy,5
+Ar,100.0,random,23,0.09,transmitted,-64.5,-64.47,64.18,1,1,0,3,4,0,,1,217.72,single vacancy,5
+Ar,100.0,random,24,1.2,transmitted,-136.59,-136.54,136.16,0,0,0,0,0,0,,0,0.71,elastic / no permanent defect,5
+Ar,100.0,random,25,0.92,transmitted,-113.58,-113.37,112.86,0,0,0,0,4,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,100.0,random,26,0.78,transmitted,-99.3,-99.05,99.07,0,0,0,0,4,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,100.0,random,27,0.94,transmitted,-121.57,-121.56,121.72,0,0,0,0,2,0,,0,0.64,"transient bond breaking, self-healed",5
+Ar,100.0,random,28,0.34,transmitted,-70.12,-70.11,69.1,1,1,0,3,3,0,,1,195.32,single vacancy,5
+Ar,100.0,random,29,0.11,transmitted,-64.28,-64.28,63.73,1,1,0,3,4,0,,1,222.52,single vacancy,5
+Ar,100.0,random,30,0.37,transmitted,-70.08,-70.03,69.66,1,1,0,3,4,0,,1,184.38,single vacancy,5
+Ar,100.0,random,31,0.09,transmitted,-63.25,-63.31,62.64,1,1,0,3,4,0,,1,222.4,single vacancy,5
+Ar,100.0,random,32,0.67,transmitted,-72.38,-72.41,59.62,2,2,0,4,6,0,,2,134.67,di-vacancy,5
+Ar,100.0,random,33,0.33,transmitted,-70.55,-70.4,70.28,1,1,0,3,4,0,,1,184.18,single vacancy,5
+Ar,100.0,random,34,0.1,transmitted,-64.59,-64.68,64.01,1,1,0,3,4,0,,1,217.44,single vacancy,5
+Ar,100.0,random,35,1.31,transmitted,-138.05,-137.99,138.13,0,0,0,0,0,0,,0,0.78,elastic / no permanent defect,5
+Ar,100.0,random,36,0.83,transmitted,-108.64,-108.64,108.29,0,0,0,0,5,0,,0,0.71,"transient bond breaking, self-healed",5
+Ar,100.0,random,37,0.39,transmitted,-72.4,-72.27,72.21,1,1,0,3,4,0,,1,173.51,single vacancy,5
+Ar,100.0,random,38,0.63,transmitted,-81.82,-81.83,49.91,1,1,0,3,5,0,,1,130.06,single vacancy,5
+Ar,100.0,random,39,0.48,transmitted,-78.36,-78.27,77.18,1,1,0,3,3,0,,1,162.73,single vacancy,5
+Ar,100.0,random,40,0.56,transmitted,-69.94,-69.96,68.85,1,1,0,3,5,0,,1,172.85,single vacancy,5
+Ar,100.0,random,41,0.74,transmitted,-82.03,-82.01,32.55,1,1,0,3,7,0,,1,114.99,single vacancy,5
+Ar,100.0,random,42,0.63,transmitted,-71.55,-71.45,70.28,1,1,0,3,5,0,,1,150.27,single vacancy,5
+Ar,100.0,random,43,0.69,transmitted,-94.83,-94.93,94.19,0,0,0,0,3,0,,0,0.83,"transient bond breaking, self-healed",5
+Ar,100.0,random,44,1.04,transmitted,-119.67,-119.73,119.81,0,0,0,0,2,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,100.0,random,45,0.32,transmitted,-68.36,-68.29,67.42,1,1,0,3,4,0,,1,196.72,single vacancy,5
+Ar,100.0,random,46,0.35,transmitted,-71.1,-71.18,70.4,1,1,0,3,4,0,,1,189.04,single vacancy,5
+Ar,100.0,random,47,0.89,transmitted,-105.58,-105.63,105.43,0,0,0,0,3,0,,0,0.69,"transient bond breaking, self-healed",5
+Ar,100.0,random,48,0.93,transmitted,-114.65,-114.68,114.56,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,100.0,random,49,0.68,transmitted,-73.4,-73.36,49.13,2,2,0,4,6,0,,2,128.15,di-vacancy,5
+Ar,100.0,random,50,0.95,transmitted,-109.53,-109.62,109.78,0,0,0,0,2,0,,0,0.6,"transient bond breaking, self-healed",5
+Ar,100.0,random,51,1.19,transmitted,-134.92,-134.85,134.94,0,0,0,0,0,0,,0,0.52,elastic / no permanent defect,5
+Ar,100.0,random,52,0.1,transmitted,-62.44,-62.44,61.38,1,1,0,3,4,0,,1,229.35,single vacancy,5
+Ar,100.0,random,53,0.43,transmitted,-69.58,-69.64,68.99,1,1,0,3,5,0,,1,188.52,single vacancy,5
+Ar,100.0,random,54,0.86,transmitted,-103.08,-103.18,102.57,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,100.0,random,55,0.22,transmitted,-65.22,-65.13,63.83,1,1,0,3,4,0,,1,215.8,single vacancy,5
+Ar,100.0,random,56,0.01,transmitted,-62.04,-62.0,61.58,1,1,0,3,4,0,,1,226.24,single vacancy,5
+Ar,100.0,random,57,0.24,transmitted,-66.43,-66.57,65.93,1,1,0,3,4,0,,1,202.49,single vacancy,5
+Ar,100.0,random,58,0.81,transmitted,-98.35,-98.41,98.12,0,0,0,0,3,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,100.0,random,59,1.0,transmitted,-124.56,-124.52,124.27,0,0,0,0,3,0,,0,0.56,"transient bond breaking, self-healed",5
+Ar,100.0,random,60,1.05,transmitted,-126.46,-126.47,126.3,0,0,0,0,2,0,,0,0.57,"transient bond breaking, self-healed",5
+Ar,100.0,random,61,0.24,transmitted,-64.66,-64.66,64.64,1,1,0,3,4,0,,1,196.09,single vacancy,5
+Ar,100.0,random,62,1.25,transmitted,-134.36,-134.42,134.32,0,0,0,0,0,0,,0,0.78,elastic / no permanent defect,5
+Ar,100.0,random,63,0.18,transmitted,-68.92,-68.9,67.79,1,1,0,3,4,0,,1,210.04,single vacancy,5
+Ar,100.0,random,64,1.18,transmitted,-135.56,-135.57,135.77,0,0,0,0,0,0,,0,0.47,elastic / no permanent defect,5
+Ar,100.0,random,65,0.45,transmitted,-71.97,-72.01,71.09,1,1,0,3,5,0,5-7,2,165.87,single vacancy,5
+Ar,100.0,random,66,0.49,transmitted,-79.29,-79.23,78.19,1,1,0,3,4,0,,1,152.55,single vacancy,5
+Ar,100.0,random,67,0.54,transmitted,-68.73,-68.69,68.2,1,1,0,3,6,0,,1,170.98,single vacancy,5
+Ar,100.0,random,68,0.56,transmitted,-73.04,-72.94,44.66,2,2,0,4,6,0,,2,136.52,di-vacancy,5
+Ar,100.0,random,69,0.1,transmitted,-65.59,-65.5,64.8,1,1,0,3,4,0,,1,220.67,single vacancy,5
+Ar,100.0,random,70,0.68,transmitted,-88.77,-88.79,43.57,1,1,0,3,6,0,,1,122.62,single vacancy,5
+Ar,100.0,random,71,0.55,transmitted,-85.43,-85.38,41.35,1,1,0,3,4,0,,1,116.59,single vacancy,5
+Ar,100.0,random,72,0.78,transmitted,-99.52,-99.44,99.31,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,100.0,random,73,0.69,transmitted,-96.78,-96.79,96.53,0,0,0,0,4,0,,0,0.61,"transient bond breaking, self-healed",5
+Ar,100.0,random,74,0.52,transmitted,-86.59,-86.52,63.45,1,1,0,3,4,0,,1,146.08,single vacancy,5
+Ar,100.0,random,75,0.33,transmitted,-66.85,-66.95,66.29,1,1,0,3,4,0,,1,196.69,single vacancy,5
+Ar,100.0,random,76,0.56,transmitted,-68.76,-68.76,68.19,1,1,0,3,7,0,,1,157.44,single vacancy,5
+Ar,100.0,random,77,0.52,transmitted,-74.07,-74.07,73.93,1,1,0,3,4,0,,1,157.12,single vacancy,5
+Ar,100.0,random,78,0.26,transmitted,-67.32,-67.34,66.36,1,1,0,3,4,0,,1,203.14,single vacancy,5
+Ar,100.0,random,79,1.35,transmitted,-136.41,-136.43,136.07,0,0,0,0,0,0,,0,0.58,elastic / no permanent defect,5
+Ar,100.0,random,80,0.42,transmitted,-72.52,-72.45,71.84,1,1,0,3,4,0,,1,155.86,single vacancy,5
+Ar,100.0,random,81,0.77,transmitted,-82.33,-82.33,35.0,1,1,0,3,6,0,,1,114.86,single vacancy,5
+Ar,100.0,random,82,0.58,transmitted,-80.4,-80.52,68.1,1,1,0,3,4,0,,1,141.06,single vacancy,5
+Ar,100.0,random,83,0.46,transmitted,-77.89,-77.91,77.64,1,1,0,3,4,0,,1,172.44,single vacancy,5
+Ar,100.0,random,84,0.27,transmitted,-70.22,-70.31,69.44,1,1,0,3,4,0,,1,199.06,single vacancy,5
+Ar,100.0,random,85,0.87,transmitted,-107.45,-107.36,107.26,0,0,0,0,3,0,,0,0.5,"transient bond breaking, self-healed",5
+Ar,100.0,random,86,0.51,transmitted,-81.57,-81.53,66.22,1,1,0,3,4,0,,1,142.41,single vacancy,5
+Ar,100.0,random,87,0.67,transmitted,-73.42,-73.4,57.48,2,2,0,4,6,0,,2,133.87,di-vacancy,5
+Ar,100.0,random,88,0.91,transmitted,-110.93,-110.88,110.37,0,0,0,0,4,0,,0,0.7,"transient bond breaking, self-healed",5
+Ar,100.0,random,89,0.87,transmitted,-101.32,-101.3,101.24,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,100.0,random,90,0.33,transmitted,-68.39,-68.47,67.46,1,1,0,3,4,0,,1,199.3,single vacancy,5
+Ar,100.0,random,91,0.84,transmitted,-98.78,-98.72,97.99,0,0,0,0,3,0,,0,0.75,"transient bond breaking, self-healed",5
+Ar,100.0,random,92,0.91,transmitted,-108.34,-108.31,108.46,0,0,0,0,3,0,,0,0.52,"transient bond breaking, self-healed",5
+Ar,100.0,random,93,0.16,transmitted,-67.42,-67.41,66.57,1,1,0,3,4,0,,1,210.54,single vacancy,5
+Ar,100.0,random,94,1.11,transmitted,-123.94,-123.96,123.54,0,0,0,0,3,0,,0,0.68,"transient bond breaking, self-healed",5
+Ar,100.0,random,95,0.69,transmitted,-73.19,-73.17,41.63,2,2,0,4,6,0,,2,137.7,di-vacancy,5
+Ar,100.0,random,96,0.98,transmitted,-117.03,-117.01,116.85,0,0,0,0,3,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,100.0,random,97,0.34,transmitted,-73.07,-73.13,72.37,1,1,0,3,4,0,,1,180.16,single vacancy,5
+Ar,100.0,random,98,1.04,transmitted,-127.16,-127.12,127.07,0,0,0,0,3,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,100.0,random,99,1.03,transmitted,-126.16,-126.18,126.11,0,0,0,0,0,0,,0,0.64,elastic / no permanent defect,5
+Ar,100.0,random,100,0.27,transmitted,-66.94,-66.97,66.23,1,1,0,3,4,0,,1,196.25,single vacancy,5
+Ar,120.0,random,1,0.75,transmitted,-94.39,-94.31,30.08,2,2,0,4,6,0,,2,147.5,di-vacancy,5
+Ar,120.0,random,2,0.96,transmitted,-134.61,-134.56,134.56,0,0,0,0,3,0,,0,0.59,"transient bond breaking, self-healed",5
+Ar,120.0,random,3,0.54,transmitted,-99.46,-99.5,60.04,1,1,0,3,4,0,,1,158.28,single vacancy,5
+Ar,120.0,random,4,0.32,transmitted,-84.33,-84.48,82.7,1,1,0,3,3,0,,1,217.24,single vacancy,5
+Ar,120.0,random,5,0.51,transmitted,-101.91,-101.86,54.8,1,1,0,3,4,0,,1,152.57,single vacancy,5
+Ar,120.0,random,6,0.74,transmitted,-120.42,-120.48,23.14,1,1,0,3,4,0,,1,103.28,single vacancy,5
+Ar,120.0,random,7,0.77,transmitted,-105.75,-105.83,28.37,2,2,0,4,6,0,,2,103.22,di-vacancy,5
+Ar,120.0,random,8,0.77,transmitted,-116.06,-115.93,45.64,1,1,0,3,4,0,,1,92.1,single vacancy,5
+Ar,120.0,random,9,0.37,transmitted,-82.04,-82.06,81.87,1,1,0,3,4,0,,1,219.45,single vacancy,5
+Ar,120.0,random,10,0.61,transmitted,-89.92,-89.97,30.57,2,2,0,4,6,0,,2,154.9,di-vacancy,5
+Ar,120.0,random,11,0.23,transmitted,-80.99,-81.02,80.22,1,1,0,3,4,0,,1,223.52,single vacancy,5
+Ar,120.0,random,12,0.81,transmitted,-121.8,-121.77,121.39,0,0,0,0,3,0,,0,0.65,"transient bond breaking, self-healed",5
+Ar,150.0,random,1,1.07,transmitted,-171.1,-171.12,170.82,0,0,0,0,0,0,,0,0.64,elastic / no permanent defect,5
+Ar,150.0,random,2,0.8,transmitted,-148.92,-149.1,149.27,0,0,0,0,4,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,150.0,random,3,0.67,transmitted,-130.77,-130.66,39.53,1,1,0,3,3,0,,1,171.72,single vacancy,5
+Ar,150.0,random,4,0.55,transmitted,-118.39,-118.43,78.7,1,1,0,3,5,0,,1,190.65,single vacancy,5
+Ar,150.0,random,5,0.24,transmitted,-96.31,-96.31,95.45,1,1,0,3,3,0,,1,266.51,single vacancy,5
+Ar,150.0,random,6,0.56,transmitted,-106.82,-106.85,97.05,1,1,0,3,5,0,,1,199.67,single vacancy,5
+Ar,150.0,random,7,0.69,transmitted,-116.2,-116.2,32.86,2,2,0,4,6,0,,2,144.15,di-vacancy,5
+Ar,150.0,random,8,0.94,transmitted,-161.27,-161.35,161.01,0,0,0,0,3,0,,0,0.55,"transient bond breaking, self-healed",5
+Ar,150.0,random,9,0.54,transmitted,-122.05,-122.12,69.01,1,1,0,3,4,0,,1,188.86,single vacancy,5
+Ar,150.0,random,10,0.87,transmitted,-139.65,-139.67,56.16,2,2,0,4,6,0,,2,92.86,di-vacancy,5
+Ar,150.0,random,11,0.39,transmitted,-107.7,-107.78,107.26,1,1,0,3,4,0,,1,241.49,single vacancy,5
+Ar,150.0,random,12,0.76,transmitted,-129.34,-129.41,40.74,1,1,0,3,6,0,,1,149.4,single vacancy,5
+Ar,200.0,random,1,0.65,transmitted,-159.06,-159.09,44.51,1,1,0,3,4,0,,1,188.04,single vacancy,5
+Ar,200.0,random,2,0.74,transmitted,-169.06,-168.88,39.14,1,1,0,3,5,0,,1,169.48,single vacancy,5
+Ar,200.0,random,3,0.68,transmitted,-129.23,-129.15,53.17,2,2,0,4,6,0,,2,181.14,di-vacancy,5
+Ar,200.0,random,4,0.82,transmitted,-187.18,-187.12,87.33,1,1,0,3,4,0,,1,107.67,single vacancy,5
+Ar,200.0,random,5,0.43,transmitted,-151.01,-150.99,97.73,1,1,0,3,4,0,,1,245.4,single vacancy,5
+Ar,200.0,random,6,0.56,transmitted,-142.37,-142.42,68.67,2,2,0,4,5,0,,2,227.6,di-vacancy,5
+Ar,200.0,random,7,0.57,transmitted,-142.29,-142.31,86.0,1,1,0,3,5,0,,1,229.06,single vacancy,5
+Ar,200.0,random,8,0.73,transmitted,-170.42,-170.34,42.01,1,1,0,3,5,0,,1,153.37,single vacancy,5
+Ar,200.0,random,9,0.19,transmitted,-112.08,-112.03,111.37,1,1,0,3,4,0,,1,338.55,single vacancy,5
+Ar,200.0,random,10,0.52,transmitted,-147.35,-147.4,92.71,1,1,0,3,4,0,,1,236.79,single vacancy,5
+Ar,200.0,random,11,0.74,transmitted,-157.7,-157.77,38.63,2,2,0,4,6,0,,2,166.51,di-vacancy,5
+Ar,200.0,random,12,0.63,transmitted,-163.07,-162.99,33.57,1,1,0,3,4,0,,1,182.39,single vacancy,5
+Ar,50.0,top,1,0.0,reflected,0.03,27.96,28.95,0,0,0,0,3,0,,0,1.07,"transient bond breaking, self-healed",5

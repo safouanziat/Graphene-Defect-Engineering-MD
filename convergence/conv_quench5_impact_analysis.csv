@@ -1,0 +1,25 @@
+projectile,energy_eV,target,run,d_impact_C,fate,min_height,z_proj_final,closest_C,n_ejected,n_vacant,n_adatom,n_undercoord,max_transient_undercoord,n_overcoord,rings,n_displaced,max_disp,outcome,analysis_version
+Ar,70.0,random,1,0.38,transmitted,-42.58,-42.51,42.13,1,1,0,3,4,0,,1,121.01,single vacancy,5
+Ar,70.0,random,2,0.71,transmitted,-40.67,-40.74,40.5,0,0,0,0,3,0,,0,0.85,"transient bond breaking, self-healed",5
+Ar,70.0,random,3,0.49,transmitted,-43.13,-43.32,43.09,1,1,0,3,4,0,,1,125.5,single vacancy,5
+Ar,70.0,random,4,0.67,reflected,-1.83,30.5,31.11,0,0,0,0,4,0,,0,0.63,"transient bond breaking, self-healed",5
+Ar,70.0,random,5,0.48,transmitted,-45.96,-45.95,46.11,0,0,0,0,4,0,,0,0.54,"transient bond breaking, self-healed",5
+Ar,70.0,random,6,0.6,transmitted,-43.28,-43.39,43.59,0,0,0,0,5,0,,0,0.39,"transient bond breaking, self-healed",5
+Ar,70.0,random,7,1.21,transmitted,-104.06,-103.98,103.48,0,0,0,0,0,0,,0,0.68,elastic / no permanent defect,5
+Ar,70.0,random,8,0.23,reflected,-1.15,30.74,30.38,1,1,0,3,4,0,,1,158.93,single vacancy,5
+Ar,70.0,random,9,0.86,transmitted,-59.34,-59.42,59.13,0,0,0,0,3,0,,0,0.72,"transient bond breaking, self-healed",5
+Ar,70.0,random,10,0.54,reflected,-1.16,29.92,30.62,1,1,0,3,4,0,,1,97.86,single vacancy,5
+Ar,70.0,random,11,0.66,transmitted,-47.05,-47.05,46.59,0,0,0,0,3,0,,0,0.48,"transient bond breaking, self-healed",5
+Ar,70.0,random,12,0.65,transmitted,-47.43,-47.44,47.03,0,0,0,0,3,0,,0,0.51,"transient bond breaking, self-healed",5
+Ar,100.0,random,1,0.54,transmitted,-71.77,-71.77,71.25,1,1,0,3,4,0,,1,149.88,single vacancy,5
+Ar,100.0,random,2,1.23,transmitted,-134.98,-134.72,134.8,0,0,0,0,0,0,,0,0.57,elastic / no permanent defect,5
+Ar,100.0,random,3,1.13,transmitted,-130.75,-130.8,130.85,0,0,0,0,0,0,,0,0.34,elastic / no permanent defect,5
+Ar,100.0,random,4,0.37,transmitted,-63.13,-63.06,62.28,1,1,0,3,4,0,,1,198.0,single vacancy,5
+Ar,100.0,random,5,0.66,transmitted,-91.86,-91.84,32.7,1,1,0,3,4,0,,1,99.95,single vacancy,5
+Ar,100.0,random,6,0.38,transmitted,-76.17,-75.92,76.06,1,1,0,3,4,0,,1,177.58,single vacancy,5
+Ar,100.0,random,7,0.22,transmitted,-64.76,-64.58,64.99,1,1,0,3,4,0,,1,203.4,single vacancy,5
+Ar,100.0,random,8,0.46,transmitted,-68.81,-68.95,20.31,2,2,0,4,6,0,,2,153.48,di-vacancy,5
+Ar,100.0,random,9,0.65,transmitted,-88.7,-88.68,86.75,0,0,0,4,6,0,5,1,2.14,"extended defect (open hole, 4 under-coordinated atoms, rings 5)",5
+Ar,100.0,random,10,0.6,transmitted,-68.61,-68.69,45.41,2,2,0,4,6,0,,2,141.08,di-vacancy,5
+Ar,100.0,random,11,0.46,transmitted,-69.4,-69.32,68.11,1,1,0,3,4,0,,1,174.51,single vacancy,5
+Ar,100.0,random,12,0.66,transmitted,-87.57,-87.56,48.59,1,1,0,3,5,0,,1,130.95,single vacancy,5

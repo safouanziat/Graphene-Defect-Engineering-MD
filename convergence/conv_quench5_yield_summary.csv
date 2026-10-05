@@ -1,0 +1,3 @@
+projectile,target,energy_eV,n_impacts,P_vacancy,P_vac_lo95,P_vac_hi95,P_vac_site,P_vac_site_lo95,P_vac_site_hi95,f_frenkel,P_any_defect,f_single,f_divacancy,f_multi,f_topological,f_bond_defect,f_extended,f_self_healed,f_reflected,f_transmitted,f_trapped,mean_C_ejected
+Ar,random,70.0,12,0.333,0.138,0.609,0.333,0.138,0.609,0.0,0.333,0.333,0.0,0.0,0.0,0.0,0.0,0.583,0.25,0.75,0.0,0.33
+Ar,random,100.0,12,0.75,0.468,0.911,0.75,0.468,0.911,0.0,0.833,0.583,0.167,0.0,0.0,0.0,0.083,0.0,0.0,1.0,0.0,0.92
