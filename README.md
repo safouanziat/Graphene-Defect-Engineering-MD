@@ -102,9 +102,9 @@ Ar on free-standing graphene, AIREBO + ZBL, 300 K, random impact points, normal 
 - **The vacancy probability is a cross-section.** Each carbon atom owns 2.53 Å² of sheet. The effective radius r_eff = √(P·A_atom/π) is 0.26 Å at 60 eV, 0.48 Å at 70 eV, 0.72 Å at 100 eV (half a C–C bond is 0.70 Å) and ≥ 0.9 Å at 200 eV, where every impact makes a vacancy. At 70 eV all single vacancies come from impacts within 0.5 Å of an atom; impacts more than 1 Å from any atom (over the hexagon centre) leave the sheet elastic.
 - **Ar transmission switches on faster than vacancy creation.** The fraction of Ar atoms crossing the sheet goes from 6% at 62 eV to 56% at 68 eV and 89% at 70 eV, while P(vacancy) only goes from 4% to 23% and 29%. The two are correlated, but the ion can cross the lattice with no permanent damage.
 - **Self-healing dominates near the threshold.** Between 50 and 90 eV more than half of the impacts break bonds transiently while the ion passes and the lattice then re-forms with no defect (92% at 60 eV, 61% at 70 eV, 25% at 100 eV, 0% at 200 eV).
-- **Di-vacancies** appear from 70 eV and reach 17–25% above 120 eV (N = 12 there); no multi-vacancy up to 200 eV.
+- **Di-vacancies** appear from 64 eV (2%, then 3% at 70 eV) and reach 17–25% above 120 eV (N = 12 there); no multi-vacancy up to 200 eV.
 - **Sputtering yield** is 0.28 C per ion at 70 eV, 0.71 at 100 eV and about 1.2 at 200 eV. Mean energy left in the sheet is 58 eV of 70 eV and 68 eV of 100 eV, but it varies a lot between runs (the ratio has a standard deviation of 0.11 at 70 eV); this overstates what the lattice absorbs because it includes the kinetic energy of ejected atoms.
-- **Sheet heating.** The impact stage is microcanonical: the 2048-atom sheet warms by about 120 K at 70 eV and 156 K at 100 eV (measured, slightly above E_dep/3Nk_B), and by 53 K and 70 K on a 4608-atom sheet, as expected for the larger heat sink.
+- **Sheet heating.** The impact stage is microcanonical: the 2048-atom sheet warms by about 120 K at 70 eV and 156 K at 100 eV (on average slightly above E_dep/3Nk_B, with a large spread and some runs well above it, see below), and by 53 K and 70 K on a 4608-atom sheet, as expected for the larger heat sink.
 - **Rarer outcomes.** Frenkel pairs (vacancy plus an atom hanging by one bond), an extended defect with an open hole and 5-ring (100 eV), 5-7 and 3-5 topological defects with no atom lost (70 eV), and bond defects with no missing atom.
 
 ![Outcome map](figures/outcome_map.png)
@@ -114,6 +114,33 @@ Ar on free-standing graphene, AIREBO + ZBL, 300 K, random impact points, normal 
 ![Effective radius](figures/cross_section.png)
 
 *Effective vacancy radius r_eff = √(P·A_atom/π) against energy, with the 95% interval. The 200 eV point is a lower bound because every impact made a vacancy.*
+
+### Energy transfer, outcome composition, heating and defects
+
+![Energy loss](figures/energy_loss.png)
+
+*Left: kinetic energy of the Ar atom after the impact divided by its energy before (log energy axis). Right: energy left in the sheet against the distance from the impact point to the nearest C atom, coloured by whether a vacancy formed.*
+
+- **Reflected and transmitted Ar lose most of their energy.** Reflected ions (50–70 eV) leave with only 5–15% of their initial energy. Transmitted ions keep typically 15–35% at 70–100 eV, and up to about 80% in a few high-energy runs, so the sheet takes the larger part of the energy in nearly every impact. The retained fraction rises with energy, with a large scatter at a given energy that reflects the impact point.
+- **Vacancies need more than about 55 eV in the sheet, but the deposited energy and the impact point do not fully decide.** Every vacancy sits at 55 eV or more and within about 0.9 Å of an atom; impacts farther away, and those that leave less than about 55 eV, give none. Between roughly 55 and 70 eV, however, both outcomes occur at similar distances, so the thermal displacement of the lattice atoms at the moment of impact presumably matters as well. The deposited energy includes the kinetic energy carried off by ejected atoms, so it is an upper estimate of what the lattice absorbs.
+
+![Outcome composition](figures/outcome_composition.png)
+
+*Fraction of impacts per outcome class against Ar energy (N under each bar). Single vacancy includes Frenkel pairs; "other defect" is a topological or extended defect with no atom lost.*
+
+The stacked bars show the same trend as the yield table in one picture. Elastic outcomes are the largest single class only at 50 eV (43%) but persist at 6–12% at most energies up to 150 eV (impacts far from any atom), self-healing is the largest class up to 80 eV, single vacancies take over from 90 eV, and di-vacancies appear from 64 eV (2%) and reach 25% at 200 eV. Rare "other defect" outcomes (2–6% between 64 and 100 eV) are the 5-7 and extended defects with no atom lost. At 120 eV and above each bar has N = 12, so a single impact is 8%: those bars show the trend, not precise fractions.
+
+![Sheet heating](figures/heating.png)
+
+*Temperature rise of the 2048-atom periodic sheet during the impact stage (measured) against the equipartition estimate E_dep/3Nk_B (crosses), for every impact.*
+
+The heating grows with the energy left in the sheet and is of the order of 100 K at 70–100 eV, 250 K at 200 eV. The estimate assumes the energy is shared equally between kinetic and potential energy. Many measured values lie above it, up to about 1.6 times at 200 eV, because the temperature is read at the end of the impact stage, before the energy has equipartitioned and while part of it is still kinetic. The estimate is therefore a guide to the scale, not an upper bound. The weak heating of the 4608-atom sheet (53 K and 70 K at 70 and 100 eV) confirms that the rise is set by the size of the heat sink.
+
+![Defect gallery](figures/defect_gallery.png)
+
+*Top and side views of the region around the impact for representative runs (`09_defect_gallery.py`). A run can be inspected with `05_inspect_run.py` using its tag, for example `Ar_random_E90_run11`.*
+
+The gallery shows the outcomes classified in the previous sections: a single vacancy at 60 eV (run 6, the ion is reflected and three neighbours are left under-coordinated), a Frenkel pair at 90 eV (run 11, a 9-ring with a pentagon and the missing atom still hanging by one bond), a di-vacancy with a chain of atoms hanging more than 3 Å below the sheet at 70 eV (run 20), a Stone–Wales-like 5-7 ring pair with one atom 1.6 Å below the plane and no atom lost at 70 eV (run 15), an extended defect at 100 eV (run 9: an open hole with a pentagon and two atoms about 2 Å out of plane, not a clean vacancy), and an atom pushed 1.2 Å out of plane that came back, leaving two under-coordinated atoms and nothing missing at 80 eV (run 1). The side views show that many defects are accompanied by large out-of-plane displacements, which is why vacancies are decided by bonding and not by height.
 
 ---
 
@@ -207,6 +234,8 @@ Running independent single-core jobs is faster than MPI on one 2048-atom sheet (
 - **Observation window.** The sheet is read after a 750 fs impact stage, a 2 ps quench and a minimization; slower defect evolution (annealing, bond rotations) is outside this protocol.
 - **Normal incidence only.**
 - **N projectiles are not production-ready.** The ReaxFF set available here (`ffield.reax.CHN`, a nitramine parametrization) does not describe graphene well (vacancy formation energy 3.6 eV against 7.65 eV with AIREBO), so N bombardment needs a validated potential. The plan is to train a **MACE** potential on DFT data for C–N (including high-energy repulsive configurations).
+
+A follow-up project (in preparation) checks the AIREBO defect energetics against DFT (GPAW, PBE) and repeats paired impacts with a fine-tuned MACE potential, so the numbers above serve as the classical baseline.
 
 Planned: more impacts above 100 eV (intervals shrink as 1/√N), a larger sheet at N = 100, a second interatomic potential as a model check, DFT relaxation of the MD defects, oblique incidence, substrate model, N doping with a validated potential.
 
