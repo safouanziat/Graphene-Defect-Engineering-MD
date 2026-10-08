@@ -233,11 +233,12 @@ Running independent single-core jobs is faster than MPI on one 2048-atom sheet (
 - **Sample size.** 12–24 impacts per energy away from 70 and 100 eV give wide intervals (±0.2 at N = 24); the 60–70 eV onset and the trend are solid, individual points above 100 eV and the di-vacancy fractions are not. The finite-size shift between 2048 and 4608 atoms (about 0.1 in P(vac)) is not resolved with 24 runs.
 - **Observation window.** The sheet is read after a 750 fs impact stage, a 2 ps quench and a minimization; slower defect evolution (annealing, bond rotations) is outside this protocol.
 - **Normal incidence only.**
-- **N projectiles are not production-ready.** The ReaxFF set available here (`ffield.reax.CHN`, a nitramine parametrization) does not describe graphene well (vacancy formation energy 3.6 eV against 7.65 eV with AIREBO), so N bombardment needs a validated potential. The plan is to train a **MACE** potential on DFT data for C–N (including high-energy repulsive configurations).
+- **Potential dependence.** All numbers come from one classical potential (AIREBO + ZBL), so the onset energy and the self-healing fractions are properties of that potential. Testing this is the purpose of the follow-up project below.
+- **N projectiles are not included.** The ReaxFF set available here (`ffield.reax.CHN`, a nitramine parametrization) does not describe graphene well (vacancy formation energy 3.6 eV against 7.65 eV with AIREBO), so N bombardment needs a validated potential.
 
-A follow-up project (in preparation) checks the AIREBO defect energetics against DFT (GPAW, PBE) and repeats paired impacts with a fine-tuned MACE potential, so the numbers above serve as the classical baseline.
+**Follow-up project (in progress, separate repository).** It checks the AIREBO defect energetics against DFT (GPAW, PBE), builds a DFT training set, fine-tunes a MACE potential and repeats paired impacts with it. N impacts are planned there with the validated potential. The results above serve as the classical baseline.
 
-Planned: more impacts above 100 eV (intervals shrink as 1/√N), a larger sheet at N = 100, a second interatomic potential as a model check, DFT relaxation of the MD defects, oblique incidence, substrate model, N doping with a validated potential.
+Planned for this repository: more impacts above 100 eV (intervals shrink as 1/√N), a larger sheet at N = 100, oblique incidence, a substrate model.
 
 ---
 
