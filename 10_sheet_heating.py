@@ -7,7 +7,10 @@ The impact stage is microcanonical, so the energy the Ar leaves in the sheet rai
 cell this can be large. The script reads the thermo output of each run's log.lammps (sheet temperature every 1000 steps),
 and reports T at the start and at the end of the impact stage, dT = T_end - T_start, and the mean dT per energy.
 If 08_energy_loss.py has been run (energy_loss.csv) it also compares dT with the equipartition estimate
-dT ~ E_dep / (3 N kB) (an upper bound: about half of the deposited energy ends up as potential energy).
+dT ~ E_dep / (3 N kB). This estimate holds once the deposited energy is shared equally between kinetic and
+potential energy (harmonic lattice). It is read at the end of the impact stage, before that has happened, so the
+measured kinetic temperature can lie above it (up to about 2x if all the energy were still kinetic): it is an
+estimate of the scale, not an upper bound.
 Writes heating.csv and heating.png.
 """
 import argparse
@@ -82,9 +85,9 @@ plt.rcParams.update({"font.size": 11, "axes.spines.top": False, "axes.spines.rig
 fig, ax = plt.subplots(figsize=(6.4, 4.4))
 ax.scatter(res.E0, res.dT, s=22, c="#2a78d6", alpha=0.7, label="measured")
 if "dT_equipartition" in res:
-    ax.scatter(res.E0, res.dT_equipartition, s=14, c="#9aa0a6", marker="x", label="equipartition upper bound")
+    ax.scatter(res.E0, res.dT_equipartition, s=14, c="#9aa0a6", marker="x", label="equipartition estimate $E_{dep}/3Nk_B$")
 ax.set_xlabel("Ar kinetic energy (eV)")
-ax.set_ylabel("sheet heating during impact stage (K)")
+ax.set_ylabel("sheet temperature rise, end of impact stage (K)")
 ax.set_title(f"Heating of a {args.n_sheet}-atom periodic sheet", loc="left", fontsize=12)
 ax.legend(frameon=False)
 fig.tight_layout()

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Two physics figures from impact_analysis.csv.
+"""Three physics figures from impact_analysis.csv.
 
     python 07_plot_physics.py
 
@@ -22,6 +22,7 @@ p.add_argument("--csv", default="impact_analysis.csv")
 p.add_argument("--a0", type=float, default=2.419, help="lattice constant used for the sheet (A)")
 p.add_argument("--target", default="random")
 p.add_argument("--out", default=".")
+p.add_argument("--min-n", type=int, default=20, help="bars with fewer impacts are drawn faded (indicative only)")
 args = p.parse_args()
 
 BLUE, ORANGE, GREEN, PURPLE, GREY = "#2a78d6", "#eb6834", "#1baf7a", "#8a5cd0", "#9aa0a6"
@@ -123,12 +124,16 @@ frac = comp.div(comp.sum(axis=1), axis=0)
 fig, ax = plt.subplots(figsize=(8, 4.6))
 x = np.arange(len(frac))
 bottom = np.zeros(len(frac))
+small = comp.sum(axis=1).values < args.min_n          # few impacts: drawn faded, indicative only
 for c in order:
-    ax.bar(x, frac[c], bottom=bottom, color=cols[c], label=c, width=0.72, edgecolor="white", linewidth=0.8)
-    bottom += frac[c].values
+    v = frac[c].values
+    ax.bar(x[~small], v[~small], bottom=bottom[~small], color=cols[c], label=c, width=0.72, edgecolor="white", linewidth=0.8)
+    if small.any():
+        ax.bar(x[small], v[small], bottom=bottom[small], color=cols[c], alpha=0.5, width=0.72, edgecolor="white", linewidth=0.8)
+    bottom += v
 ax.set_xticks(x)
 ax.set_xticklabels([f"{e:.0f}\n(N={int(n)})" for e, n in zip(frac.index, comp.sum(axis=1))], fontsize=9)
-ax.set_xlabel("Ar kinetic energy (eV)")
+ax.set_xlabel("Ar kinetic energy (eV)" + (f"   (faded bars: N < {args.min_n}, indicative only)" if small.any() else ""))
 ax.set_ylabel("fraction of impacts")
 ax.set_title("What a random impact does, vs energy", loc="left", fontsize=13)
 ax.legend(loc="upper center", bbox_to_anchor=(0.5, -0.2), ncol=3, frameon=False, fontsize=9)
