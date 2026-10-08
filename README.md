@@ -226,7 +226,7 @@ Running independent single-core jobs is faster than MPI on one 2048-atom sheet (
 
 ---
 
-## ⚠️ Limitations and roadmap
+## 🚧 Limitations and roadmap
 
 - **Free-standing sheet.** Experiments use a substrate that absorbs momentum and changes thresholds and reflection.
 - **Classical nuclei, no electronic excitation.** ZBL is a screened-Coulomb core, not a fitted Ar–C potential.
